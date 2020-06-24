@@ -1,0 +1,13 @@
+<g-deictic hand point-to-body>I am an Ent,</g-deictic> 
+<g-beat head emphasis>or that's what they call me.</g-beat>
+<g-deictic hand point-forward>What are you,</g-deictic> 
+<g-iconic hand shrug>I wonder? </g-iconic>
+<g-iconic hand on-waist>You are in my country </g-iconic>
+<g-beat hand emphasis>but you do not seem to come in the old lists that I learned when I was young.</g-beat>
+<g-iconic hand scratch-chin>Let me see! <g-beat head emphasis> How did it go?</g-beat></g-iconic>
+<g-beat hand emphasis>Beaver the builder, buck the leaper,Bear bee-hunter, boar the fighter;</g-beat>
+<g-beat head down>Hound is hungry</g-beat> <g-beat head up> hare is fearful</g-beat>
+<g-iconic hand scratch-chin>Hoom, hm; It was a long list. </g-iconic>
+<g-iconic hand on-waist>But anyway <g-beat head emphasis>you do not seem to fit in anywhere!</g-beat></g-iconic>
+<g-iconic hand big>Why not make a new line?</g-iconic>
+<g-iconic hand release>Half-grown hobbits, the hole-dwellers.</g-iconic>
